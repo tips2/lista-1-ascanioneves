@@ -1,3 +1,5 @@
+#Encadeamento misto
+
 Duas_rodas = False
 Pequeno = False
 Motocicleta = False
