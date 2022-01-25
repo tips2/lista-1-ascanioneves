@@ -1,0 +1,7 @@
+R1: SE Quatro_rodas = Sim E Pequeno =  Sim ENTÃO Carro = Sim
+R2: SE Duas_rodas = Sim ENTÃO Motocicleta = Sim
+R3: SE Motocicleta = Sim ENTÃO Bicicleta = Sim
+R4: SE Duas_rodas = Sim ENTÃO MotoStreet = Sim
+R5: SE MotoStreet = Sim ENTÃO Chopper = Sim
+R6: SE Chopper = Sim ENTÃO Pequeno = sim
+MT = { Duas_rodas = Sim }
