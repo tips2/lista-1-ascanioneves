@@ -1,3 +1,5 @@
+#Encadeamento para trás
+
 Duas_rodas = False
 Pequeno = False
 Motocicleta = False
